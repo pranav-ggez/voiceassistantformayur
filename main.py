@@ -10,7 +10,7 @@ from newsapi import NewsApiClient
 import threading
 
 # ---------------- CONFIG ----------------
-phone_numbers = {"rishi": "1234567890", "sakshi": "7507907497", "mangesh": "9082724012"}
+phone_numbers = {"rishi": "1234567890", "sakshi": "0000000123", "mangesh": "0000000000"}
 bank_account_numbers = {"tt": "123456789", "mm": "99999999933"}
 
 newsapi = NewsApiClient(api_key="NEWS_API_KEY")
