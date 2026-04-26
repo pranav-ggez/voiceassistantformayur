@@ -13,7 +13,7 @@ import threading
 phone_numbers = {"rishi": "1234567890", "sakshi": "7507907497", "mangesh": "9082724012"}
 bank_account_numbers = {"tt": "123456789", "mm": "99999999933"}
 
-newsapi = NewsApiClient(api_key="16e6ebd33eff44ad8e6071f2c30a709f")
+newsapi = NewsApiClient(api_key="NEWS_API_KEY")
 
 # ---------------- TTS INIT ----------------
 engine = pyttsx3.init()
